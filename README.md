@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @swathidevdynamo
 - 👀 I’m interested in Javascript, nodejs , html, css and react tech stack
 - 🌱 I’m currently learning Javascript, nodejs, html, css and react
-- 💞️ I’m looking to collaborate on javascript 
+- 💞️ I’m looking to collaborate on any opensource projects 
 - 📫 How to reach me swathi.munnangi73@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
