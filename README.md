@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @swathidevdynamo
-- 👀 I’m expert in Javascript, nodejs , html, css and react, redux, nextjs and nestjs tech stack
-- 🌱 I’m open to learn new skills
-- 💞️ I’m looking to collaborate on any opensource projects 
-- 📫 How to reach me swathi.munnangi1208@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- Hi, I’m @swathidevdynamo
+- I’m open to learning new skills
+- I’m looking to collaborate on any opensource projects 
+- How to reach me swathi.munnangi1208(at)gmail.com
+  
 
 <!---
 swathidevdynamo/swathidevdynamo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
